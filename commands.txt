@@ -1,0 +1,6 @@
+/regras - lista as regras do servidor
+/bot.version - imprime a versão do bot
+/commands - lista os comandos do servidor
+/RIP_Pele
+/RIP_Beth
+/RIP_EU
